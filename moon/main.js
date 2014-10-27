@@ -74,7 +74,7 @@
 cc.game.onStart = function(){
     cc.view.adjustViewPort(true);
     
-    // 设置界面的policy
+    // 设置界面的policy test
     cc.view.setDesignResolutionSize(320,480,cc.ResolutionPolicy.SHOW_ALL);
     cc.view.resizeWithBrowserSize(true);
     
